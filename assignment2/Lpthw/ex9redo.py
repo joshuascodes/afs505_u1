@@ -15,5 +15,3 @@ with the three-double quotes.
 We can type as much as we would like.
 even more lines
 """)
-
-pwd
