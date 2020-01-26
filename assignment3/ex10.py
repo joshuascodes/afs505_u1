@@ -7,7 +7,7 @@ tabby_cat = "\tI'm tabbed in."
 
 persian_cat = "I'm split\non a line."
 
-# If we want to use a \, we use \\
+# If we want to use a '\', we use '\\'
 backslash_cat = "I'm \\ a \\ cat."
 
 # If we want to type a big paragraph, use 3 quotes """ and put your text
